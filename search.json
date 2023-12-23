@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "blogs/myblogs.html",
+    "href": "blogs/myblogs.html",
+    "title": "myblog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "personalwebsite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jiaping(JP) Zhang",
+    "section": "",
+    "text": "Jiaping(JP) Zhang is the Senior Machine Learning Engineer at Gemini. When not dabbling in data stuffs, JP enjoys spending time unicycling and playing with his dog Oatly."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jiaping(JP) Zhang",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Davis | Davis, CA\nM.S in Computer Science | Sept 2016 - June 2018\nM.S in Statistics | Sept 2015 - June 2016\nB.S in Statistics | Sept 2013 - June 2015"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jiaping(JP) Zhang",
+    "section": "Experience",
+    "text": "Experience\nGemini | Senior ML Engineer | May 2022 - present\nSalesforce | Senior Data Scientist | Jun 2018 - May 2022"
+  }
+]
